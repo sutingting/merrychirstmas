@@ -1,0 +1,33 @@
+html,body{
+   margin:0;
+   width:100%;
+   height:100%;
+   text-align:center;
+   background-color:#ADD8E6;
+}
+
+#background{
+	width:1024px;
+	height:724px;
+	margin:0px auto;
+	background-image:url("../images/background.jpg");
+}
+
+#audioContainer{
+	width:1024px;
+	height:30px;
+	margin:0px auto;
+	background-color:black;
+}
+
+#xttprofile{
+	margin:70px 0px;
+	/*position:absolute;*/
+}
+
+#loveText{
+	text-align:center;
+	color:red;
+	font-size:45px;
+	font-family:Cursive;
+}
